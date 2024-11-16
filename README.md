@@ -1,11 +1,11 @@
 # Version Checker
 
-A simple Python library and CLI tool to fetch current software version information for roblox.
+A simple Python library to fetch current software version information for roblox.
 
 ## Installation
 
 ```bash
-pip install roblox-version
+pip install roblox_version
 ```
 
 ## How to use
